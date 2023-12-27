@@ -1,7 +1,7 @@
 ## How to Use
-Save the credentials in the following environment variable
-bhoo_username
-bhoo_password
+Save the credentials in the following environment variable  
+`bhoo_username`  
+`bhoo_password`  
 
 ## Functions
 ```
